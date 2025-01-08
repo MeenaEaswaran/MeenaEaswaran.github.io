@@ -9,8 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-* M.S. in Biomedical Informatics, UTHealth Houston, TX, USA, 2025 (expected)
-  
-* M.S. in Medical Sciences, University of Florida, FL, USA, 2015
+## Master of Science in Biomedical Informatics  
+**UTHealth Houston, Texas, United States**  
+**August 2023 - Present**  
 
-* B.Tech. in Biotechnology, Sri Venkateswara College of Engineering (Affliated to Anna University, Chennai, India), 2009
+- Expected to graduate in Summer/Fall 2025.  
+- Remote student specializing in Bioinformatics and Health Data Science course concentrations.  
+
+
+
+## Master of Science in Medical Sciences  
+**University of Florida, Gainesville, United States**  
+**August 2013 - May 2015**  
+
+- **Thesis:** Role of periodontal pathogens in induction of atherosclerosis in LDLR null mice.  
+- Developed a deep understanding of various biological concepts through rigorous coursework and hands-on laboratory experiments.  
+
+
+
+## Bachelor of Technology in Biotechnology  
+**Sri Venkateswara College of Engineering**  
+(Affiliated to Anna University, Chennai, Tamil Nadu, India)  
+**September 2009 - April 2013**  
+
+- Gained a strong foundation in biotechnology principles and practical skills through comprehensive coursework and laboratory training.
