@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Work Experience"
+permalink: /workexperience/
 author_profile: true
 redirect_from:
-  - /resume
+  - /work experience
 ---
 
 {% include base_path %}
