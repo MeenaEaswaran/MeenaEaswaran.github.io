@@ -15,10 +15,13 @@ main:
     url: /skills/
     
   - title: "Bioinformatics Portfolio"
-    url: /portfolio/
+    url: /bioinformaticsportfolio/
       
   - title: "Publications"
     url: /publications/
-   
 
- 
+   - title: "Awards"
+    url: /awards/
+
+   - title: "Certifications"
+    url: /certifications/
