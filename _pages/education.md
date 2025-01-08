@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Master of Science in Biomedical Informatics  
+### Master of Science in Biomedical Informatics  
 **UTHealth Houston, Texas, United States**  
 **August 2023 - Present**  
 
@@ -18,7 +18,7 @@ redirect_from:
 
 
 
-## Master of Science in Medical Sciences  
+### Master of Science in Medical Sciences  
 **University of Florida, Gainesville, United States**  
 **August 2013 - May 2015**  
 
@@ -27,7 +27,7 @@ redirect_from:
 
 
 
-## Bachelor of Technology in Biotechnology  
+### Bachelor of Technology in Biotechnology  
 **Sri Venkateswara College of Engineering**  
 (Affiliated to Anna University, Chennai, Tamil Nadu, India)  
 **September 2009 - April 2013**  
