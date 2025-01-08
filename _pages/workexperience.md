@@ -17,6 +17,7 @@ redirect_from:
     - Conducted functional validation assays on laryngeal tissue samples to evaluate changes in gene expression and protein levels from Bulk-RNA sequencing, enhancing study reliability.
     - Trained 5+ new staff, student trainees, and clinical residents in lab protocols and/or bioinformatic tools within four weeks of onboarding.
 
+
 * **10/2020 - 07/2023: Lab Manager/Research Associate**  
   **Stanford University 📍 Stanford, California, United States**  
   **Department of Cardiovascular Medicine**  
@@ -25,6 +26,7 @@ redirect_from:
     - Managed transgenic mice colonies, overseeing breeding, genotyping, and record-keeping to support research objectives and maintain colony health.
     - Created standard operating procedures (SOPs) for in vivo (mouse) inhalation studies on tobacco and e-cigarette products using inEXPOSE inhalation equipment to assess cardiovascular toxicity indicators.
     - Trained 3+ new staff and student trainees in lab and inhalation exposure protocols within four weeks of onboarding.
+
 
 * **10/2016 - 07/2023: Life Science Research Professional 1**  
   **Stanford University 📍 Stanford, California, United States**  
@@ -35,6 +37,7 @@ redirect_from:
     - Conducted bioinformatic analysis on NanoString nCounter data from an inflammation panel using R, leading to a publication in Nature Scientific Reports.
     - Collaborated across multiple disciplines, including rhinology (nose) and otology (ear) divisions, contributing to different projects within the department, which led to 2 publications.
 
+
 * **03/2016 - 10/2016: Research Assistant I**  
   **Baylor College of Medicine 📍 Houston, Texas, United States**  
   **Department of Molecular Virology and Microbiology**  
@@ -43,12 +46,14 @@ redirect_from:
     - Inoculated bacterial cultures and biofilms and performed statistical analysis on data outcomes.
     - Documented research protocols (SOPs), ensured laboratory safety compliance, and maintained laboratory inventory.
 
+
 * **09/2015 - 03/2016: Research Assistant II (non-clinical)**  
   **UTHealth 📍 Houston, Texas, United States**  
   **Department of Microbiology and Microbial Genetics**  
   **Duties included:**
     - Studied the role of anaerobic oral bacteria (*Fusobacterium nucleatum*) deletion mutants in inducing adverse pregnancy outcomes in a murine model.
     - Assisted with mouse colony management, oral bacterial inoculations, and nucleic acid isolation (DNA/RNA) to support ongoing research projects.
+
 
 * **08/2013 - 05/2015: Graduate Research Assistant**  
   **University of Florida 📍 Gainesville, Florida, United States**  
@@ -59,11 +64,13 @@ redirect_from:
     - Collaborated with researchers on the thesis project and presented findings at academic conferences.
     - Received multiple awards from renowned institutes like the European Atherosclerotic Society (EAS) and American Society of Microbiology (ASM) for scientific research excellence.
 
+
 * **12/2012 - 04/2013: Undergraduate Student Researcher**  
   **Anna University 📍 Chennai, Tamil Nadu, India**  
   **Department of Biotechnology**  
   **Duties included:**
     - Provided support for cloning, expression, and purification of white spot syndrome viral (WSSV) proteins in *Escherichia coli* expression hosts.
+
 
 * **Jun 2012 - Jul 2012: Intern, L&T Department of Ocular Pathology**  
   **Sankara Nethralaya Medical Research Foundation 📍 Chennai, Tamil Nadu, India**  
@@ -71,11 +78,13 @@ redirect_from:
     - Conducted suicide gene therapy experiments on cancer cell lines, including developing stable breast cancer line MCF 7 and analyzing Ep-CAM expression levels.
     - Evaluated transfection efficiency and conducted cell viability assays to assess the lethal effect of Ganciclovir on the cell lines.
 
+
 * **May 2011 - May 2011: Trainee, Cytogenetics and Electron Microscopy**  
   **Cancer Institute Adyar 📍 Chennai, Tamil Nadu, India**  
   **Duties included:**
     - Utilized Transmission Electron Microscope (TEM) and Scanning Electron Microscope (SEM) to examine lung tissue samples for cancerous or non-cancerous characteristics.
     - Studied the techniques of Classic Karyotyping, Spectral Karyotyping (SKY), and Fluorescent in situ Hybridization (FISH).
+
 
 * **Dec 2010 - Dec 2010: Trainee, Diagnostics Labs**  
   **Lister Metropolis 📍 Chennai, Tamil Nadu, India**  
