@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Work Experience
-======
 * 08/2023 - Present: Research Associate (part-time)
   * Stanford University
   * Department of Otolaryngology-Head and Neck Surgery
