@@ -4,7 +4,7 @@ title: "Education"
 permalink: /education/
 author_profile: True
 redirect_from:
-  - /Education
+  - /education
 ---
 
 {% include base_path %}
