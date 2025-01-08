@@ -30,7 +30,7 @@ redirect_from:
 
 
 ### Introduction to Genomic Technologies
-- **Issued by:** The Johns Hopkins University | Coursera · **November 2024**  
+- **Issued by:** The Johns Hopkins University (Coursera) · **November 2024**  
 - **Credential ID:** VJ8CUJ42ZMSI  
 
 
@@ -55,15 +55,15 @@ redirect_from:
 
 
 ### Antimicrobial Resistance - Theory and Methods
-- **Issued by:** Technical University of Denmark (DTU) | Coursera · **July 2016**  
+- **Issued by:** Technical University of Denmark (DTU) (Coursera) · **July 2016**  
 - **Credential ID:** 9EDQ7QKKTKLG  
 
 
 ### Epidemics - The Dynamics of Infectious Diseases
-- **Issued by:** Pennsylvania State University | Coursera · **May 2016**  
+- **Issued by:** Pennsylvania State University (Coursera) · **May 2016**  
 - **Credential ID:** 9QNVN5YH9FVY  
 
 
 ### Bacteria and Chronic Infections
-- **Issued by:** University of Copenhagen, Denmark | Coursera · **January 2016**  
+- **Issued by:** University of Copenhagen, Denmark (Coursera) · **January 2016**  
 - **Credential ID:** NA4GD95DS7XN  
