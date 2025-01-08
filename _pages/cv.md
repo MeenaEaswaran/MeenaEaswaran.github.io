@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* M.S. in Biomedical Informatics, UTHealth Houston, TX, USA, 2025 (expected)
-* M.S. in Medical Sciences, University of Florida, FL, USA, 2015
-* B.Tech. in Biotechnology, Sri Venkateswara College of Engineering (Affliated to Anna University, Chennai, India), 2009
-
 Work Experience
 ======
 * 08/2023 - Present: Research Associate (part-time)
@@ -131,17 +125,3 @@ Skills
 
 * **Soft Skills**
   * Adaptability, Teamwork, Communication, Leadership, Problem-solving
-
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
