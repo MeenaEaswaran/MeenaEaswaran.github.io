@@ -10,7 +10,10 @@ main:
   
   - title: "Work Experience"
     url: /workexperience/
- 
+    
+  - title: "Skills"
+    url: /skills/
+    
   - title: "Bioinformatics Portfolio"
     url: /portfolio/
       
