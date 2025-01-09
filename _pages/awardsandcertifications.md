@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Awards and Certifications"
 permalink: /awards/
 author_profile: True
 redirect_from:
