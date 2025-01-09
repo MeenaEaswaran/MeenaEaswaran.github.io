@@ -16,7 +16,7 @@ redirect_from:
 - Expected to graduate in Summer/Fall 2025.  
 - Remote student specializing in Bioinformatics and Health Data Science course concentrations.  
 
-
+---
 
 ### Master of Science in Medical Sciences  
 **University of Florida, Gainesville, United States**  
@@ -25,7 +25,7 @@ redirect_from:
 - **Thesis:** Role of periodontal pathogens in induction of atherosclerosis in LDLR null mice.  
 - Developed a deep understanding of various biological concepts through rigorous coursework and hands-on laboratory experiments.  
 
-
+---
 
 ### Bachelor of Technology in Biotechnology  
 **Sri Venkateswara College of Engineering**  
