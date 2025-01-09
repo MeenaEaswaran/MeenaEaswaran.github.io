@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Awards and Certifications"
-permalink: /awards/
+permalink: /awardsandcertifications/
 author_profile: True
 redirect_from:
   - /awards and certifications
