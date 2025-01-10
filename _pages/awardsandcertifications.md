@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Awards and Certifications"
+title: "Awards"
 permalink: /awardsandcertifications/
 author_profile: True
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-# Awards
 
 ## SBMI Excellence Fund Scholarship Award
 - McWilliams School of Biomedical Informatics at UTHealth Houston · August 2024
