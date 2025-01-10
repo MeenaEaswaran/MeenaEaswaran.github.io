@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+# Awards
 
-## Awards
 ## SBMI Excellence Fund Scholarship Award
 - McWilliams School of Biomedical Informatics at UTHealth Houston · August 2024
 
@@ -33,7 +33,7 @@ redirect_from:
 ---
 
 
-## Certifications
+# Certifications
 ## Programming Foundations: Fundamentals
 - **Issued by:** LinkedIn · **December 2024**  
 - **Skills:** Programming  
