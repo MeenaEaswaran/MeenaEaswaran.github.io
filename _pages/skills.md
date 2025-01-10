@@ -9,38 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-### Programming Languages
+## Programming Languages
   - R, Python (beginner), SQL (beginner), Command line tools (beginner)
 
-### Bioinformatic Data Analysis
+## Bioinformatic Data Analysis
   - Bulk RNA-sequencing, NanoString nCounter, NCBI GEO, Bioconductor, DESeq2, limma, gProfiler, clusterProfiler, GSEA, Metascape, DAVID, Qiagen IPA, WGCNA, StringDB, iDEP, GWAS, VCFtools, bedTools, UCSC Genome Browser
 
-### Data Visualization
+## Data Visualization
   - ggplot2, EnhancedVolcano, ComplexHeatmap, Cytoscape, Tableau, BioRender, Inkscape
 
-### Statistical Analysis
+## Statistical Analysis
   - R, GraphPad Prism, SPSS 
 
-### Molecular and Cell Biology
+## Molecular and Cell Biology
   - DNA/RNA isolation, PCR, RT-PCR, qPCR, MTT assay, and ELISA
 
-### Histology and Immunostaining
+## Histology and Immunostaining
   - FFPE/cryosectioning, H&E, AB/PAS, Masson's Trichrome, IF, and IHC
 
-### Microscopy and Digital Pathology/Image Analysis
+## Microscopy and Digital Pathology/Image Analysis
   - Brightfield, Fluorescent, SEM, ImageJ/Fiji, QuPath, CellProfiler, Aperio Imagescope, and Zen Lite
 
-### Animal Research and Handling
-  - Mouse injury model development (tobacco inhalation hazards; bacterial inoculation), Transgenic mice breeding, Compound administration (IP/Oral gavage), Euthanasia, and tissue harvest
+## Animal Research and Handling
+  - Mouse injury model development (tobacco inhalation; bacterial inoculation), Transgenic mice breeding, Compound administration (IP/Oral gavage), Euthanasia, and tissue harvest
 
-### Microbiology
+## Microbiology
   - Aerobic and anaerobic bacterial cell culture, isolation and growing bacteriophages, Time kill assays with antibiotics, and Minimum Inhibitory Concentration (MIC) determinations
 
-### Laboratory Management
+## Laboratory Management
   - Inventory management (Quartzy), Equipment troubleshooting, Media and Buffer preparation, SOP documentation, and Training laboratory personnel
 
-### Office and Productivity
+## Office and Productivity
   - Microsoft Office Suite 365, Google Workspace
 
-### Soft Skills
+## Soft Skills
   - Adaptability, Teamwork, Communication, Leadership, Problem-solving
