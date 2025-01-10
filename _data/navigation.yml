@@ -5,23 +5,26 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Education"
-    url: /education/
-  
+  - title: "Bioinformatics Portfolio"
+    url: /bioinformaticsportfolio/
+
+  - title: "Publications"
+    url: /publications/
+     
   - title: "Work Experience"
     url: /workexperience/
     
   - title: "Skills"
     url: /skills/
     
-  - title: "Bioinformatics Portfolio"
-    url: /bioinformaticsportfolio/
+  - title: "Education"
+    url: /education/
       
-  - title: "Publications"
-    url: /publications/
+  - title: "Certifications"
+    url: /certifications/
 
-  - title: "Awards and Certifications"
-    url: /awardsandcertifications/
+  - title: "Awards"
+    url: /awards/
 
   - title: "Presentations"
     url: /presentations/
