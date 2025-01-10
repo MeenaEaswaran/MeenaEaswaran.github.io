@@ -12,22 +12,22 @@ redirect_from:
 
 ## Awards
 
-### SBMI Excellence Fund Scholarship Award
+## SBMI Excellence Fund Scholarship Award
 - McWilliams School of Biomedical Informatics at UTHealth Houston · August 2024
 
-### Outstanding New Student Scholarship
+## Outstanding New Student Scholarship
 - McWilliams School of Biomedical Informatics at UTHealth Houston · June 2023
 
-### Recipient, Travel Grant
+## Recipient, Travel Grant
 - University of Florida Graduate Student Council (UF GSC) · January 2015
 
-### Young Investigator Fellowship
+## Young Investigator Fellowship
 - European Atherosclerotic Society (EAS) · December 2014
 
-### Runner-up, Graduate Student Poster Presentation
+## Runner-up, Graduate Student Poster Presentation
 - University of Florida Center for Inflammation and Mucosal Immunology · October 2014
 
-### Runner-up, Graduate Student Poster Presentation
+## Runner-up, Graduate Student Poster Presentation
 - Southeastern Branch of American Society of Microbiology (ASM) · September 2014
 
 
@@ -36,56 +36,56 @@ redirect_from:
 
 ## Certifications
   
-### Programming Foundations: Fundamentals
+## Programming Foundations: Fundamentals
 - **Issued by:** LinkedIn · **December 2024**  
 - **Skills:** Programming  
 
 
-### Python Essential Training
+## Python Essential Training
 - **Issued by:** LinkedIn · **December 2024**  
 - **Skills:** Python (Programming Language)  
 
 
-### Python for Students
+## Python for Students
 - **Issued by:** LinkedIn · **December 2024**  
 - **Skills:** Python (Programming Language)  
 
 
-### Responsible Authorship and Publication
+## Responsible Authorship and Publication
 - **Issued by:** CITI Program · **December 2024**  
 - **Credential ID:** 66696000  
 
 
-### Introduction to Genomic Technologies
+## Introduction to Genomic Technologies
 - **Issued by:** The Johns Hopkins University (Coursera) · **November 2024**  
 - **Credential ID:** VJ8CUJ42ZMSI  
 
 
-### RNA-Seq Data Analysis using R Programming Program
+## RNA-Seq Data Analysis using R Programming Program
 - **Issued by:** OmicsLogic Inc. · **September 2024**  
 - **Skills:** R (Programming Language), RNAseq Analysis  
 
 
-### Python Quick Start
+## Python Quick Start
 - **Issued by:** LinkedIn · **February 2024**  
 - **Skills:** Python (Programming Language)  
 
-### Python for Non-Programmers
+## Python for Non-Programmers
 - **Issued by:** LinkedIn · **January 2024**  
 - **Skills:** Python (Programming Language)  
 
 
-### Qiagen IPA Certified Analyst
+## Qiagen IPA Certified Analyst
 - **Issued by:** QIAGEN · **January 2023**  
 - **Credential ID:** 000027  
 - **Skills:** Ingenuity Pathway Analysis  
 
 
-### Antimicrobial Resistance - Theory and Methods
+## Antimicrobial Resistance - Theory and Methods
 - **Issued by:** Technical University of Denmark (DTU) (Coursera) · **July 2016**  
 - **Credential ID:** 9EDQ7QKKTKLG  
 
 
-### Epidemics - The Dynamics of Infectious Diseases
+## Epidemics - The Dynamics of Infectious Diseases
 - **Issued by:** Pennsylvania State University (Coursera) · **May 2016**  
 - **Credential ID:** 9QNVN5YH9FVY  
