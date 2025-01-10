@@ -10,7 +10,9 @@ redirect_from:
 🎓 Bioinformatician-in-Training at UTHealth Houston, TX, USA      
 💡 Biological Data-Driven Problem Solver
 
-Hello! I am an enthusiastic researcher with hands-on experience in experimental biology and an increasing proficiency in bioinformatics. With over 9 years of academic research experience in microbiology, virology, cardiovascular health, and otolaryngology, my journey has provided me with a strong foundation in experimental design and biological systems, which is now enhanced by my expanding bioinformatics skill set.
+Hello! 👋 
+
+I am an enthusiastic researcher with hands-on experience in experimental biology and an increasing proficiency in bioinformatics. With over 9 years of academic research experience in microbiology, virology, cardiovascular health, and otolaryngology, my journey has provided me with a strong foundation in experimental design and biological systems, which is now enhanced by my expanding bioinformatics skill set.
 
 Currently, I am a Researcher in the [DiRenzo Lab](https://med.stanford.edu/direnzolab/meet-the-team.html) within the **Otolaryngology—Head & Neck Surgery (OHNS) Department** at **Stanford University, CA, USA**. My primary focus is on utilizing transcriptomics to investigate the molecular consequences of tobacco products (traditional cigarettes and electronic (e)-cigarettes) on laryngeal health. Initially, I was involved in developing in vivo models to elucidate tobacco product(s)-induced laryngeal pathophysiology, which has since evolved into integrating experimental approaches with computational analysis to elucidate underlying disease mechanisms.
 
