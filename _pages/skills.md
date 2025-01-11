@@ -31,7 +31,7 @@ redirect_from:
   - Brightfield, Fluorescent, SEM, ImageJ/Fiji, QuPath, CellProfiler, Aperio Imagescope, and Zen Lite
 
 ## Animal Research and Handling
-  - Mouse injury model development (tobacco inhalation; bacterial inoculation), Transgenic mice breeding, Compound administration (IP/Oral gavage), Euthanasia, and tissue harvest
+  - In vivo injury model development, Animal husbandry and colony management, Compound administration (IP/Oral gavage), Tissue collection and processing
 
 ## Microbiology
   - Aerobic and anaerobic bacterial cell culture, isolation and growing bacteriophages, Time kill assays with antibiotics, and Minimum Inhibitory Concentration (MIC) determinations
