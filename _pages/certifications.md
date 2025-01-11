@@ -10,18 +10,18 @@ redirect_from:
 {% include base_path %}
 
 ## Programming Foundations: Fundamentals
-- **Issued by:** LinkedIn · **December 2024**  
-- **Skills:** Programming  
+- **Issued December 2024:** ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+- **Skills:** Python Programming Language 
 
 
 ## Python Essential Training
-- **Issued by:** LinkedIn · **December 2024**  
-- **Skills:** Python (Programming Language)  
+- **Issued December 2024:** ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+- **Skills:** Python Programming Language 
 
 
 ## Python for Students
-- **Issued by:** LinkedIn · **December 2024**  
-- **Skills:** Python (Programming Language)  
+- **Issued December 2024:** ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+- **Skills:** Python Programming Language  
 
 
 ## Responsible Authorship and Publication
@@ -30,22 +30,22 @@ redirect_from:
 
 
 ## Introduction to Genomic Technologies
-- **Issued by:** The Johns Hopkins University (Coursera) · **November 2024**  
+- **Issued by:** The Johns Hopkins University · **November 2024**  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 - **Credential ID:** VJ8CUJ42ZMSI  
 
 
 ## RNA-Seq Data Analysis using R Programming Program
 - **Issued by:** OmicsLogic Inc. · **September 2024**  
-- **Skills:** R (Programming Language), RNAseq Analysis  
+- **Skills:** R Programming Language, RNAseq Analysis  
 
 
 ## Python Quick Start
-- **Issued by:** LinkedIn · **February 2024**  
-- **Skills:** Python (Programming Language)  
+- **Issued February 2024:** ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+- **Skills:** Python Programming Language 
 
 ## Python for Non-Programmers
-- **Issued by:** LinkedIn · **January 2024**  
-- **Skills:** Python (Programming Language)  
+- **Issued January 2024:** ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  
+- **Skills:** Python Programming Language
 
 
 ## Qiagen IPA Certified Analyst
@@ -55,15 +55,15 @@ redirect_from:
 
 
 ## Antimicrobial Resistance - Theory and Methods
-- **Issued by:** Technical University of Denmark (DTU) (Coursera) · **July 2016**  
+- **Issued by:** Technical University of Denmark (DTU) · **July 2016**  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 - **Credential ID:** 9EDQ7QKKTKLG  
 
 
 ## Epidemics - The Dynamics of Infectious Diseases
-- **Issued by:** Pennsylvania State University (Coursera) · **May 2016**  
+- **Issued by:** Pennsylvania State University · **May 2016**  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 - **Credential ID:** 9QNVN5YH9FVY  
 
 
 ## Bacteria and Chronic Infections
-- **Issued by:** University of Copenhagen, Denmark (Coursera) · **January 2016**  
+- **Issued by:** University of Copenhagen, Denmark · **January 2016**  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 - **Credential ID:** NA4GD95DS7XN  
