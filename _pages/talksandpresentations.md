@@ -24,7 +24,7 @@ redirect_from:
 **Title:** Evaluation of Early Inflammatory and Immune Cell Responses in the Murine Larynx Following Subacute Low and High Dose Whole-Body Cigarette Smoke Exposure  
 **Authors:** **Meena Easwaran**, Joshua D. Martinez, Juyong Brian Kim, Elizabeth Erickson-DiRenzo  
 **Institution:** Stanford University - School of Medicine, Stanford, CA, USA<br/>   
-[Meeting Abstracts-Refer to Pg.227 of 250](/talks/SRNT22_Abstracts_final.pdf)
+[Meeting Abstracts-Refer to Pg.222 of 250](/talks/SRNT22_Abstracts_final.pdf)
 
 ---
 
@@ -45,7 +45,7 @@ redirect_from:
 **Title:** Evaluation of Early Inflammatory and Immune Cell Responses in the Murine Larynx Following Subacute Low and High Dose Whole-Body Cigarette Smoke Exposure  
 **Authors:** **Meena Easwaran**, Joshua D. Martinez, Juyong Brian Kim, Elizabeth Erickson-DiRenzo  
 **Institution:** Stanford University - School of Medicine, Stanford, CA, USA<br/>  
-[Meeting Abstracts-Refer to Pg.227 of 250](/talks/SRNT22_Abstracts_final.pdf)
+[Meeting Abstracts-Refer to Pg.222 of 250](/talks/SRNT22_Abstracts_final.pdf)
 
 ---
 
