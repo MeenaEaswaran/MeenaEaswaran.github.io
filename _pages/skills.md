@@ -22,7 +22,7 @@ redirect_from:
 - Microarray 
 - Bulk RNA-Sequencing
   
- **Data Repositories and Data Acqisition**  
+ **Data Repositories and Data Acquisition**  
 - NCBI GEO
 - R Bioconductor Package: GEOQuery
 - 1000 Genomes Project (International Genome Sample Resource [IGSR])
