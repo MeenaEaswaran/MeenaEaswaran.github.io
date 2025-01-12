@@ -22,8 +22,9 @@ redirect_from:
 - Microarray 
 - Bulk RNA-Sequencing
   
- **Data Repositories**  
+ **Data Repositories and Data Acqisition**  
 - NCBI GEO
+- R Bioconductor Package: GEOQuery
 - 1000 Genomes Project (International Genome Sample Resource [IGSR])
 
  **Differential Expression and Functional Enrichment Analysis**  
@@ -40,7 +41,7 @@ redirect_from:
 - Weighted Gene Correlation Network Analysis (WGCNA)
 - Cytoscape
 
- **Variant Analysis and Genome annotation**  
+ **Variant Analysis and Genome Annotation**  
 - VCFtools
 - R Package: VcfR
 - bedTools
