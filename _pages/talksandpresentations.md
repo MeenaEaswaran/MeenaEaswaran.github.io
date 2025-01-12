@@ -7,9 +7,9 @@ redirect_from:
   - /talks and presentations
 ---
 
-# 🎤 Invited Talks (First Speaker Only)
+# Invited Talks (First Speaker Only)
 
-## The Fall Voice Conference   
+## 🎤 The Fall Voice Conference   
 **October 2022**  
 **Title:** Evaluation of Mouse Laryngeal Inflammatory and Immune Cell Responses Following Subacute Low and High Dose Cigarette Smoke Exposure  
 **Authors:** **Meena Easwaran**, Joshua Martinez, Juyong Brian Kim, Elizabeth Erickson DiRenzo  
@@ -18,7 +18,7 @@ redirect_from:
 
 ---
 
-## 28th Annual Meeting, Society of Research in Nicotine and Tobacco (SRNT)  
+## 🎤🖼️ 28th Annual Meeting, Society of Research in Nicotine and Tobacco (SRNT)  
 **March 2022**  
 **Type:** Hybrid (Oral and Poster Presentation)  
 **Title:** Evaluation of Early Inflammatory and Immune Cell Responses in the Murine Larynx Following Subacute Low and High Dose Whole-Body Cigarette Smoke Exposure  
@@ -28,7 +28,7 @@ redirect_from:
 
 ---
 
-## 25th Annual Meeting, Society of Research in Nicotine and Tobacco (SRNT)  
+## 🎤 25th Annual Meeting, Society of Research in Nicotine and Tobacco (SRNT)  
 **February 2019**  
 **Title:** Evaluation of Cellular Proliferation and Mucus Production in the Murine Larynx Following Short-Term Whole-Body Cigarette Smoke Exposure  
 **Authors:** **Meena Easwaran**, Joshua Martinez, Daniel Ramirez, Elizabeth Erickson DiRenzo  
@@ -37,9 +37,9 @@ redirect_from:
 
 ---
 
-# 🖼️ Poster Presentations (First Author/Presenter)
+# Poster Presentations (First Author/Presenter)
 
-## 28th Annual Meeting, Society of Research in Nicotine and Tobacco (SRNT)  
+## 🎤🖼️ 28th Annual Meeting, Society of Research in Nicotine and Tobacco (SRNT)  
 **March 2022**  
 **Type:** Hybrid (Oral and Poster Presentation)  
 **Title:** Evaluation of Early Inflammatory and Immune Cell Responses in the Murine Larynx Following Subacute Low and High Dose Whole-Body Cigarette Smoke Exposure  
@@ -49,7 +49,7 @@ redirect_from:
 
 ---
 
-## 83rd Scientific Congress, European Atherosclerotic Society (EAS)  
+## 🖼️ 83rd Scientific Congress, European Atherosclerotic Society (EAS)  
 **March 2015**  
 **Title:** Role of Periodontal Pathogens in Induction of Atherosclerosis in LDLR -/- Mice  
 **Authors:** **Meena Easwaran**, Sasanka S Chukkapalli, Mercedes F Rivera-Kweh, Irina M Velsko, Donghang Zheng, Alexandra R Lucas, Lakshmyya Kesavalu <br/> 
@@ -58,13 +58,13 @@ redirect_from:
 
 ---
 
-## 2nd Research Retreat, University of Florida Center for Inflammation and Mucosal Immunology  
+## 🖼️ 2nd Research Retreat, University of Florida Center for Inflammation and Mucosal Immunology  
 **October 2014**  
 **Recognition:** Awarded 2nd Place for Poster Presentation  
 
 ---
 
-## Southeastern Microbiology Summit (ASM General Meeting)  
+## 🖼️ Southeastern Microbiology Summit (ASM General Meeting)  
 **September 2014**  
 **Recognition:** Awarded 2nd Place for Poster Presentation  
 
