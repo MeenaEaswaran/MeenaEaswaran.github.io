@@ -118,7 +118,7 @@ redirect_from:
 - Tissue Harvesting and Processing
   
 ---
-## 🦠  Microbiology  
+## 🦠 Microbiology  
  **Culture Techniques**  
 - Establishing Aerobic and Anaerobic Bacterial Cell Cultures
 
@@ -128,7 +128,7 @@ redirect_from:
 - Minimum Inhibitory Concentration (MIC) assessments
   
 ---
-## 🥼 Laboratory Management  
+## 📋 Laboratory Management  
  **Operational Skills**  
 - Inventory Management (Quartzy)
 - Equipment Troubleshooting
