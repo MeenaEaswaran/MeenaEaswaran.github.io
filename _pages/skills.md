@@ -14,6 +14,7 @@ redirect_from:
 - Python (Beginner)
 - SQL (Beginner)
 - Command Line Tools (Beginner)
+  
 ---
 ## 🧬 Bioinformatic Data Analysis  
  **High-Throughput Data Processing**  
@@ -47,6 +48,7 @@ redirect_from:
 - bcfTools
 - UCSC Genome Browser
 - Intergrative Genomics Viewer (IGV)
+  
 ---
 ## 📊 Data Visualization and Scientific Illustration 
  - R package: ggplot2
@@ -54,11 +56,13 @@ redirect_from:
 - Tableau
 - BioRender
 - Inkscape
+  
 ---
 ## 📉 Statistical Analysis  
 - R
 - GraphPad Prism
 - SPSS
+  
 ---
 ## 🧪 Molecular and Cell Biology  
 - Isolation of Nucleic Acids (DNA/RNA) 
@@ -66,7 +70,8 @@ redirect_from:
   - Reverse Transcription PCR (RT-PCR)
   - Quantitative or Real-time PCR (qPCR)
 - Cell Viability Assessment via MTT Assay
-- Enzyme-linked Immunosorbent Assay (ELISA) 
+- Enzyme-linked Immunosorbent Assay (ELISA)
+  
 ---
 ## 🧫 Histology and Immunostaining  
  **Tissue Preparation Techniques**  
@@ -80,7 +85,8 @@ redirect_from:
   
  **Immunostaining**  
 - Immunofluorescence (IF)
-- Immunohistochemistry (IHC) 
+- Immunohistochemistry (IHC)
+  
 ---
 ## 🔬 Microscopy and Digital Pathology/Image Analysis  
  **Imaging Techniques**  
@@ -95,6 +101,7 @@ redirect_from:
 - CellProfiler
 - Aperio Imagescope
 - Zen Lite
+  
 ---
 ## 🐭 In Vivo Research and Handling  
  **Experimental Model Development**  
@@ -109,6 +116,7 @@ redirect_from:
 
  **Tissue Collection**  
 - Tissue Harvesting and Processing
+  
 ---
 ## 🦠  Microbiology  
  **Culture Techniques**  
@@ -117,7 +125,8 @@ redirect_from:
  **Specialized Assays**  
 - Isolation and Growing Bacteriophages
 - Time-Kill Assays with Antibiotics
-- Minimum Inhibitory Concentration (MIC) assessments 
+- Minimum Inhibitory Concentration (MIC) assessments
+  
 ---
 ## 🥼 Laboratory Management  
  **Operational Skills**  
@@ -128,6 +137,7 @@ redirect_from:
  **Documentation and Training**  
 - Standard Operating Procedures (SOP) Documentation
 - Training and Mentoring Laboratory Personnel
+  
 ---
 ## 📄 Office and Productivity  
  **Microsoft Office Suite**
