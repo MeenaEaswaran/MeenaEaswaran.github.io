@@ -65,6 +65,6 @@ redirect_from:
 ---
 
 ### Southeastern Microbiology Summit (ASM General Meeting)  
-**September, 2014**  
+**September 2014**  
 **Recognition:** Awarded 2nd Place for Poster Presentation  
 
