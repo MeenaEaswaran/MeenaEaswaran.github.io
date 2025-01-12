@@ -57,7 +57,7 @@ redirect_from:
 
 ## ☑️ Introduction to R Programming
 - **Issued by:** Stanford University · **March 2020**
-- **Skills:** R PRogramming Language
+- **Skills:** R Programming Language
   
 
 ## ☑️ Antimicrobial Resistance - Theory and Methods
