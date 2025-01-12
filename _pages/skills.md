@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## 🖥️ Programming Languages  
-
 - R
 - Python (Beginner)
 - SQL (Beginner)
@@ -54,8 +53,7 @@ redirect_from:
 ---
 
 ## 📊 Data Visualization and Scientific Illustration 
- 
-- R package: ggplot2
+ - R package: ggplot2
 - R Bioconductor Packages: EnhancedVolcano, ComplexHeatmap
 - Tableau
 - BioRender
@@ -64,7 +62,6 @@ redirect_from:
 ---
 
 ## 📉 Statistical Analysis  
-
 - R
 - GraphPad Prism
 - SPSS
@@ -72,7 +69,6 @@ redirect_from:
 ---
 
 ## 🧪 Molecular and Cell Biology  
-
 - Isolation of Nucleic Acids (DNA/RNA) 
 - Polymerase Chain Reaction (PCR) Amplification and Quantification of DNA/RNA
   - Reverse Transcription PCR (RT-PCR)
