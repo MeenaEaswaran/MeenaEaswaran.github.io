@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Research Associate (part-time)  
+## 🧑‍🔬🥼 Research Associate (part-time)  
 **Stanford University 📍 Stanford, California, United States**  
 **August 2023 - Present**  
 
@@ -19,7 +19,7 @@ redirect_from:
 
 ---
 
-## Lab Manager/Research Associate  
+## 🧑‍🔬💼 Lab Manager/Research Associate  
 **Stanford University 📍 Stanford, California, United States**  
 **October 2020 - July 2023**  
 
@@ -30,7 +30,7 @@ redirect_from:
 
 ---
 
-## Life Science Research Professional 1  
+## 🧑‍🔬🥼 Life Science Research Professional 1  
 **Stanford University 📍 Stanford, California, United States**  
 **October 2016 - July 2023**  
 
@@ -41,7 +41,7 @@ redirect_from:
 
 ---
 
-## Research Assistant I  
+## 🧑‍🔬🥼 Research Assistant I  
 **Baylor College of Medicine 📍 Houston, Texas, United States**  
 **March 2016 - October 2016**  
 
@@ -51,7 +51,7 @@ redirect_from:
 
 ---
 
-## Research Assistant II (non-clinical)  
+## 🧑‍🔬🥼 Research Assistant II (non-clinical)  
 **UTHealth 📍 Houston, Texas, United States**  
 **September 2015 - March 2016**  
 
@@ -60,7 +60,7 @@ redirect_from:
 
 ---
 
-## Graduate Research Assistant  
+## 🧑‍🔬🥼 Graduate Research Assistant  
 **University of Florida 📍 Gainesville, Florida, United States**  
 **August 2013 - May 2015**  
 
@@ -71,7 +71,7 @@ redirect_from:
 
 ---
 
-## Undergraduate Student Researcher  
+## 🧑‍🔬🥼 Undergraduate Student Researcher  
 **Anna University 📍 Chennai, Tamil Nadu, India**  
 **December 2012 - April 2013**  
 
@@ -79,7 +79,7 @@ redirect_from:
 
 ---
 
-## Intern, L&T Department of Ocular Pathology  
+## 🧑‍🔬🥼 Intern, L&T Department of Ocular Pathology  
 **Sankara Nethralaya Medical Research Foundation 📍 Chennai, Tamil Nadu, India**  
 **June 2012 - July 2012**  
 
@@ -88,7 +88,7 @@ redirect_from:
 
 ---
 
-## Trainee, Cytogenetics and Electron Microscopy  
+## 🥼 Trainee, Cytogenetics and Electron Microscopy  
 **Cancer Institute Adyar 📍 Chennai, Tamil Nadu, India**  
 **May 2011 - May 2011**  
 
@@ -97,7 +97,7 @@ redirect_from:
 
 ---
 
-## Trainee, Diagnostics Labs  
+## 🥼 Trainee, Diagnostics Labs  
 **Lister Metropolis 📍 Chennai, Tamil Nadu, India**  
 **December 2010 - December 2010**  
 
