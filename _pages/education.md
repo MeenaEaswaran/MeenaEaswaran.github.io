@@ -29,7 +29,7 @@ redirect_from:
 
 ## 🎓 Bachelor of Technology in Biotechnology  
 **Sri Venkateswara College of Engineering**  
-(Affiliated to Anna University, Chennai, Tamil Nadu, India)  
+**Affiliated to Anna University, Chennai, Tamil Nadu, India**  
 **September 2009 - April 2013**  
 
 - Gained a strong foundation in biotechnology principles and practical skills through comprehensive coursework and laboratory training.
