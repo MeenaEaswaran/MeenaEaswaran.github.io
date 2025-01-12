@@ -33,5 +33,18 @@ redirect_from:
 
 - Chukkapalli, S. S., **Easwaran, M.**, Rivera-Kweh, M. F., Velsko, I. M., Ambadapadi, S., Dai, J., Larjava, H., Lucas, A. R., & Kesavalu, L. (2017). Sequential colonization of periodontal pathogens in induction of periodontal disease and atherosclerosis in LDLRnull mice. Pathogens and disease, 75(1), ftx003. [https://doi.org/10.1093/femspd/ftx003](https://doi.org/10.1093/femspd/ftx003)
 
-### Preprint
+## Preprint
 Qin, G. T., Zhao, Q., Fujita, A., Damiani, I., **Easwaran, M.**, Basu, S., Gu, W., Li, D. Y., Worssam, M., Palmisano, B., Monteiro, J. P., Ramste, M., Kundu, R., Nguyen, T., Park, C., Weldy, C. S., Cheng, P., & Kim, J. B. (2024). Aryl-hydrocarbon receptor in smooth muscle cells protect against dioxin induced adverse remodeling of atherosclerosis. bioRxiv : the preprint server for biology, 2024.09.24.614572. [https://doi.org/10.1101/2024.09.24.614572](https://doi.org/10.1101/2024.09.24.614572)
+
+## Conference Proceedings
+Damiani, I., Weldy, C., Easwaran, M., Qin, G., Basu, S., Direnzo, E., Quertermous, T., & Kim, J. B. (2024). Abstract 145: Chronic Electronic Cigarette Exposure Accelerates SMC Phenotypic Modulation And Activates The NMDA-type Glutamate Receptor (NMDAR) Pathway In Mediating Vascular Calcification. Arteriosclerosis, Thrombosis, and Vascular Biology, 44(Suppl_1), A145–A145. [https://doi.org/10.1161/atvb.44.suppl_1.145](https://doi.org/10.1161/atvb.44.suppl_1.145)
+
+Qin, G., Easwaran, M., Damiani, I., Zhao, Q., Kundu, R. K., Nguyen, T., Cheng, P., Fujita, A., Quertermous, T., & Kim, J. B. (2023). Abstract 703: Dioxin-induced Smooth Muscle Cell Phenotypic Modulation And Atherosclerosis Worsens In The Absence Of AHR. Arteriosclerosis, Thrombosis, and Vascular Biology, 43(Suppl_1), A703–A703. [https://doi.org/10.1161/atvb.43.suppl_1.703](https://doi.org/10.1161/atvb.43.suppl_1.703)
+
+Damiani, I., Easwaran, M., Qin, T. G., Cheng, P., Kim, H.-J., Martinez, J., DiRenzo, E., Quertermous, T., & Kim, J. B. (2022). Abstract 319: Electronic Cigarettes Activate The Heat Shock Response In Vascular Smooth Muscle In Atherosclerosis. Arteriosclerosis, Thrombosis, and Vascular Biology, 42(Suppl_1), A319–A319. [https://doi.org/10.1161/atvb.42.suppl_1.319](https://doi.org/10.1161/atvb.42.suppl_1.319)
+
+Qin, G., Easwaran, M., Damiani, I., Zhao, Q., Kundu, R. K., Nguyen, T., Cheng, P., Quertermous, T., & Kim, J. B. (2022). Abstract 532: Dioxin Modifies The Transcriptomic And Epigenetic Landscape Of Smooth Muscle Cells Leading To Adverse Remodeling Of Atherosclerosis. Arteriosclerosis, Thrombosis, and Vascular Biology, 42(Suppl_1), A532–A532. [https://doi.org/10.1161/atvb.42.suppl_1.532](https://doi.org/10.1161/atvb.42.suppl_1.532)
+
+Easwaran, M., Chukkapalli, S., Rivera-Kweh, M., Velsko, I., Zheng, D., Lucas, A., & Kesavalu, L. (2015). Role of periodontal pathogens in induction of atherosclerosis in LDLR-/- Mice. Atherosclerosis, 241(1), e44. [https://doi.org/10.1016/j.atherosclerosis.2015.04.159](https://doi.org/10.1016/j.atherosclerosis.2015.04.159)
+
+
