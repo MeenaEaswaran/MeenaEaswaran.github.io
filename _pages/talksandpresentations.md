@@ -9,7 +9,7 @@ redirect_from:
 
 # Invited Talks (First Speaker Only)
 
-## The Fall Voice Conference 2022  
+## The Fall Voice Conference   
 **October 2022**  
 **Title:** Evaluation of Mouse Laryngeal Inflammatory and Immune Cell Responses Following Subacute Low and High Dose Cigarette Smoke Exposure  
 **Authors:** **Meena Easwaran**, Joshua Martinez, Juyong Brian Kim, Elizabeth Erickson DiRenzo  
