@@ -14,9 +14,7 @@ redirect_from:
 - Python (Beginner)
 - SQL (Beginner)
 - Command Line Tools (Beginner)
-  
 ---
-
 ## 🧬 Bioinformatic Data Analysis  
  **High-Throughput Data Processing**  
 - NanoString nCounter Gene Expression
@@ -49,25 +47,19 @@ redirect_from:
 - bcfTools
 - UCSC Genome Browser
 - Intergrative Genomics Viewer (IGV)
-
 ---
-
 ## 📊 Data Visualization and Scientific Illustration 
  - R package: ggplot2
 - R Bioconductor Packages: EnhancedVolcano, ComplexHeatmap
 - Tableau
 - BioRender
 - Inkscape
-
 ---
-
 ## 📉 Statistical Analysis  
 - R
 - GraphPad Prism
 - SPSS
-  
 ---
-
 ## 🧪 Molecular and Cell Biology  
 - Isolation of Nucleic Acids (DNA/RNA) 
 - Polymerase Chain Reaction (PCR) Amplification and Quantification of DNA/RNA
@@ -75,9 +67,7 @@ redirect_from:
   - Quantitative or Real-time PCR (qPCR)
 - Cell Viability Assessment via MTT Assay
 - Enzyme-linked Immunosorbent Assay (ELISA) 
-
 ---
-
 ## 🧫 Histology and Immunostaining  
  **Tissue Preparation Techniques**  
 - Formalin Fixed Paraffin-Embedded (FFPE) Tissue Fixation, Processing, and Embedding 
@@ -91,9 +81,7 @@ redirect_from:
  **Immunostaining**  
 - Immunofluorescence (IF)
 - Immunohistochemistry (IHC) 
-
 ---
-
 ## 🔬 Microscopy and Digital Pathology/Image Analysis  
  **Imaging Techniques**  
 - Brightfield Microscopy
@@ -107,9 +95,7 @@ redirect_from:
 - CellProfiler
 - Aperio Imagescope
 - Zen Lite
-
 ---
-
 ## 🐭 In Vivo Research and Handling  
  **Experimental Model Development**  
 - In Vivo Injury Model Development (Tobacco exposure and bacterial inoculation models) 
@@ -123,9 +109,7 @@ redirect_from:
 
  **Tissue Collection**  
 - Tissue Harvesting and Processing
-
 ---
-
 ## 🦠  Microbiology  
  **Culture Techniques**  
 - Establishing Aerobic and Anaerobic Bacterial Cell Cultures
@@ -134,9 +118,7 @@ redirect_from:
 - Isolation and Growing Bacteriophages
 - Time-Kill Assays with Antibiotics
 - Minimum Inhibitory Concentration (MIC) assessments 
-
 ---
-
 ## 🥼 Laboratory Management  
  **Operational Skills**  
 - Inventory Management (Quartzy)
@@ -146,9 +128,7 @@ redirect_from:
  **Documentation and Training**  
 - Standard Operating Procedures (SOP) Documentation
 - Training and Mentoring Laboratory Personnel
-
 ---
-
 ## 📄 Office and Productivity  
  **Microsoft Office Suite**
 - Microsoft Word
