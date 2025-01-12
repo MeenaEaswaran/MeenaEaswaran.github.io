@@ -9,38 +9,159 @@ redirect_from:
 
 {% include base_path %}
 
-## Programming Languages
-  - R, Python (beginner), SQL (beginner), Command line tools (beginner)
+## 🖥️ Programming Languages  
 
-## Bioinformatic Data Analysis
-  - Bulk RNA-sequencing, NanoString nCounter, NCBI GEO, Bioconductor, DESeq2, limma, gProfiler, clusterProfiler, GSEA, Metascape, DAVID, Qiagen IPA, WGCNA, StringDB, iDEP, GWAS, VCFtools, bedTools, UCSC Genome Browser
+- R
+- Python (Beginner)
+- SQL (Beginner)
+- Command Line Tools (Beginner)
+  
+---
 
-## Data Visualization
-  - ggplot2, EnhancedVolcano, ComplexHeatmap, Cytoscape, Tableau, BioRender, Inkscape
+## 🧬 Bioinformatic Data Analysis  
+ **High-Throughput Data Processing**  
+- NanoString nCounter Gene Expression
+- Microarray 
+- Bulk RNA-Sequencing
+  
+ **Data Repositories**  
+- NCBI GEO
+- 1000 Genomes Project (International Genome Sample Resource [IGSR])
 
-## Statistical Analysis
-  - R, GraphPad Prism, SPSS 
+ **Differential Expression and Functional Enrichment Analysis**  
+- R Bioconductor Packages: DESeq2, limma, clusterProfiler
+- gProfiler (also  R package gprofiler2 )
+- GSEA
+- Metascape
+- NIH Database for Annotation, Visualization, and Integrated Discovery (DAVID)
+- iDEP
+- Qiagen Ingenity Pathway Analysis (IPA)
 
-## Molecular and Cell Biology
-  - DNA/RNA isolation, PCR, RT-PCR, qPCR, MTT assay, and ELISA
+ **Network Analysis** 
+- StringDB
+- Weighted Gene Correlation Network Analysis (WGCNA)
+- Cytoscape
 
-## Histology and Immunostaining
-  - FFPE/cryosectioning, H&E, AB/PAS, Masson's Trichrome, IF, and IHC
+ **Variant Analysis and Genome annotation**  
+- VCFtools
+- R Package: VcfR
+- bedTools
+- samTools
+- bcfTools
+- UCSC Genome Browser
+- Intergrative Genomics Viewer (IGV)
 
-## Microscopy and Digital Pathology/Image Analysis
-  - Brightfield, Fluorescent, SEM, ImageJ/Fiji, QuPath, CellProfiler, Aperio Imagescope, and Zen Lite
+---
 
-## Animal Research and Handling
-  - In vivo injury model development, Animal husbandry and colony management, Compound administration (IP/Oral gavage), Tissue collection and processing
+## 📊 Data Visualization and Scientific Illustration 
+ 
+- R package: ggplot2
+- R Bioconductor Packages: EnhancedVolcano, ComplexHeatmap
+- Tableau
+- BioRender
+- Inkscape
 
-## Microbiology
-  - Aerobic and anaerobic bacterial cell culture, isolation and growing bacteriophages, Time kill assays with antibiotics, and Minimum Inhibitory Concentration (MIC) determinations
+---
 
-## Laboratory Management
-  - Inventory management (Quartzy), Equipment troubleshooting, Media and Buffer preparation, SOP documentation, and Training laboratory personnel
+## 📉 Statistical Analysis  
 
-## Office and Productivity
-  - Microsoft Office Suite 365, Google Workspace
+- R
+- GraphPad Prism
+- SPSS
+  
+---
 
-## Soft Skills
-  - Adaptability, Teamwork, Communication, Leadership, Problem-solving
+## 🧪 Molecular and Cell Biology  
+
+- Isolation of Nucleic Acids (DNA/RNA) 
+- Polymerase Chain Reaction (PCR) Amplification and Quantification of DNA/RNA
+  - Reverse Transcription PCR (RT-PCR)
+  - Quantitative or Real-time PCR (qPCR)
+- Cell Viability Assessment via MTT Assay
+- Enzyme-linked Immunosorbent Assay (ELISA) 
+
+---
+
+## 🧫 Histology and Immunostaining  
+ **Tissue Preparation Techniques**  
+- Formalin Fixed Paraffin-Embedded (FFPE) Tissue Fixation, Processing, and Embedding 
+- Frozen Tissue Sample Fixation, Processing, and Optimal Cutting Temperature (OCT) Compound Embedding
+
+ **Histological Staining Methods**  
+- Hematoxylin and Eosin stain (H&E)
+- Alcian Blue/ Periodic Acid Schiff (AB/PAS)
+- Masson's Trichrome
+  
+ **Immunostaining**  
+- Immunofluorescence (IF)
+- Immunohistochemistry (IHC) 
+
+---
+
+## 🔬 Microscopy and Digital Pathology/Image Analysis  
+ **Imaging Techniques**  
+- Brightfield Microscopy
+- Fluorescent Microscopy
+- Confocal Microscopy
+- Scanning Electron Microscopy (SEM)
+
+ **Image Processing Tools**  
+- ImageJ/Fiji
+- QuPath
+- CellProfiler
+- Aperio Imagescope
+- Zen Lite
+
+---
+
+## 🐭 In Vivo Research and Handling  
+ **Experimental Model Development**  
+- In Vivo Injury Model Development (Tobacco exposure and bacterial inoculation models) 
+
+ **Animal Care**  
+- Husbandry and Colony Management
+
+ **Compound Administration**  
+- Intraperitoneal (IP)
+- Oral Gavage
+
+ **Tissue Collection**  
+- Tissue Harvesting and Processing
+
+---
+
+## 🦠  Microbiology  
+ **Culture Techniques**  
+- Establishing Aerobic and Anaerobic Bacterial Cell Cultures
+
+ **Specialized Assays**  
+- Isolation and Growing Bacteriophages
+- Time-Kill Assays with Antibiotics
+- Minimum Inhibitory Concentration (MIC) assessments 
+
+---
+
+## 🥼 Laboratory Management  
+ **Operational Skills**  
+- Inventory Management (Quartzy)
+- Equipment Troubleshooting
+- Media and Buffer Preparation
+
+ **Documentation and Training**  
+- Standard Operating Procedures (SOP) Documentation
+- Training and Mentoring Laboratory Personnel
+
+---
+
+## 📄 Office and Productivity  
+ **Microsoft Office Suite**
+- Microsoft Word
+- Microsoft Excel
+- Microsoft PowerPoint
+- Microsoft OneDrive
+  
+ **Google Workspace**
+- Google Docs
+- Google Sheets
+- Google Slides
+- Google Drive
