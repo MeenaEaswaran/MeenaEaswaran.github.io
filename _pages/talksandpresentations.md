@@ -37,7 +37,7 @@ redirect_from:
 
 ---
 
-## Poster Presentations (First Author/Presenter)
+# Poster Presentations (First Author/Presenter)
 
 ### 28th Annual Meeting, Society of Research in Nicotine and Tobacco (SRNT)  
 **March 2022**  
