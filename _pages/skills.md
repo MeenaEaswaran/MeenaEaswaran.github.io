@@ -25,7 +25,6 @@ redirect_from:
  **Data Repositories and Data Acquisition**  
 - NCBI GEO
 - R Bioconductor Package: GEOQuery
-- 1000 Genomes Project (International Genome Sample Resource [IGSR])
 
  **Differential Expression and Functional Enrichment Analysis**  
 - R Bioconductor Packages: DESeq2, limma, clusterProfiler
