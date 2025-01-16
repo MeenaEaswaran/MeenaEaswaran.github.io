@@ -37,7 +37,9 @@ redirect_from:
 - Led multiple in vivo (mouse) projects assessing acute and chronic effects of tobacco and e-cigarette inhalation using inEXPOSE inhalation equipment to gain insights into laryngeal toxicity.  
 - Authored and co-authored 9 publications focused on tobacco product-induced laryngeal toxicity.  
 - Conducted bioinformatic analysis on NanoString nCounter data from an inflammation panel using R, leading to a publication in Nature Scientific Reports.  
-- Collaborated across multiple disciplines, including rhinology (nose) and otology (ear) divisions, contributing to different projects within the department, which led to 2 publications.  
+- Collaborated across multiple disciplines, including rhinology (nose) and otology (ear) divisions, contributing to different projects within the department, which led to 2 publications.
+- Utilized various experimental techniques from various disciplines, including molecular biology, histology, immunostaining, microscopy, and digital pathology/image analysis; Developed SOPs to ensure accurate and reproducible results.
+- Trained 10+ new staff, student trainees, and clinical residents in the lab and inhalation exposure protocols within four weeks of onboarding.
 
 ---
 
