@@ -9,6 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
+## ☑️ Introduction to ScRNA-Seq Data Analysis program
+- **Issued by:** OmicsLogic Inc. · **May 2025**  
+- **Skills:** scRNAseq Analysis (basics) 
+
+
+## ☑️ pandas Essential Training (2017)
+- **Issued March 2025:** ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+- **Skills:** pandas (python library)
+
+  
+## ☑️ Data Acquisition and Management
+- **Issued by:** CITI Program · **February 2025**
+- **Credential ID:** 67932660
+
+
+## ☑️ Group 1 Biomedical Researcher and Key Personnel
+- **Issued by:** CITI Program · **February 2025**
+- **Expires:** **February 2028**  
+- **Credential ID:** 67932659
+  
+
 ## ☑️ Programming Foundations: Fundamentals
 - **Issued December 2024:** ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 - **Skills:** Python Programming Language 
