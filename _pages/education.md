@@ -13,7 +13,7 @@ redirect_from:
 **UTHealth Houston, Texas, United States**  
 **August 2023 - Present**  
 
-- Expected to graduate in Summer/Fall 2025.  
+- Expected to graduate in Fall 2025.  
 - Remote student specializing in Bioinformatics and Health Data Science course concentrations.  
 
 ---
