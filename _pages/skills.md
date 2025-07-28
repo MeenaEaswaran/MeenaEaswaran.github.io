@@ -51,8 +51,9 @@ redirect_from:
   
 ---
 ## 📊 Data Visualization and Scientific Illustration 
- - R package: ggplot2
+- R package: ggplot2
 - R Bioconductor Packages: EnhancedVolcano, ComplexHeatmap
+- Python libraries: Seaborn, Matplotlib 
 - Tableau
 - BioRender
 - Inkscape
