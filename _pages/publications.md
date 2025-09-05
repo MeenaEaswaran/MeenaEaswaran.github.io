@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+- Easwaran, M., Kimura, A., Liao, H. Y., Khan, M. I., Golchin, A., Kiessling, P., & Erickson-DiRenzo, E. (2025). Laryngeal Basal Cell Response to Cigarette Smoke and E-Cigarette Aerosol Exposures. The Laryngoscope, 10.1002/lary.70092. Advance online publication. [https://doi.org/10.1002/lary.70092](https://doi.org/10.1002/lary.70092)
+  
 - Kimura, A., Khan, M. I., **Easwaran, M.**, Soo, J., Golchin, A., & Erickson-DiRenzo, E. (2025). Establishing a Mouse Model of Surgical Vocal Fold Injury. The Laryngoscope, 135(1), 213–222. [https://doi.org/10.1002/lary.31732](https://doi.org/10.1002/lary.31732)
 
 - Khan, M. I., **Easwaran, M.**, Martinez, J. D., Kimura, A., & Erickson-DiRenzo, E. (2024). Method for Collecting Single Epithelial Cells from the Mouse Larynx. The Laryngoscope, 134(2), 786–794. [https://doi.org/10.1002/lary.30970](https://doi.org/10.1002/lary.30970)
