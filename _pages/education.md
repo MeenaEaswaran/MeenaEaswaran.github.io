@@ -24,7 +24,7 @@ redirect_from:
 
 - Developed a deep understanding of various biological concepts through rigorous coursework and hands-on laboratory experiments.  
 - **Thesis:** Role of periodontal pathogens in induction of atherosclerosis in LDLR null mice.
--- Awarded Young Investigator Fellowship by the European Atherosclerotic Society (EAS) for this research.
+  -  Awarded Young Investigator Fellowship by the European Atherosclerotic Society (EAS) for this research.
 
 ---
 
