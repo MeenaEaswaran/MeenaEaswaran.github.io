@@ -37,7 +37,7 @@ redirect_from:
 
 - Chukkapalli, S. S., **Easwaran, M.**, Rivera-Kweh, M. F., Velsko, I. M., Ambadapadi, S., Dai, J., Larjava, H., Lucas, A. R., & Kesavalu, L. (2017). Sequential colonization of periodontal pathogens in induction of periodontal disease and atherosclerosis in LDLRnull mice. Pathogens and disease, 75(1), ftx003. [https://doi.org/10.1093/femspd/ftx003](https://doi.org/10.1093/femspd/ftx003)
 
-## Preprint
+## Preprints
 - Damiani, I., Weldy, C. C., Zhao, Q., Solberg, E. H., Qin, G. T., Easwaran, M., Zheng, S., Basu, S., Gu, W., Worssam, M., Monteiro, J. P., Li, D. Y., Bahia, G. K., Kundu, R., Nguyen, T., Direnzo, E., Cheng, P., & Kim, J. B. (2026). Chronic Electronic Cigarette Exposure Promotes Atherosclerosis and Chondrogenic Modulation of Smooth Muscle Cells. bioRxiv : the preprint server for biology, 2025.09.13.675958. [https://doi.org/10.1101/2025.09.13.675958](https://doi.org/10.1101/2025.09.13.675958)
 
 - Qin, G. T., Zhao, Q., Fujita, A., Damiani, I., **Easwaran, M.**, Basu, S., Gu, W., Li, D. Y., Worssam, M., Palmisano, B., Monteiro, J. P., Ramste, M., Kundu, R., Nguyen, T., Park, C., Weldy, C. S., Cheng, P., & Kim, J. B. (2024). Aryl-hydrocarbon receptor in smooth muscle cells protect against dioxin induced adverse remodeling of atherosclerosis. bioRxiv : the preprint server for biology, 2024.09.24.614572. [https://doi.org/10.1101/2024.09.24.614572](https://doi.org/10.1101/2024.09.24.614572)
