@@ -11,10 +11,10 @@ redirect_from:
 
 ## 🎓 Master of Science in Biomedical Informatics  
 **UTHealth Houston, Texas, United States**  
-**August 2023 - Present**  
+**August 2023 - Fall 2025**  
 
-- Expected to graduate in Fall 2025.  
-- Remote student specializing in Bioinformatics and Health Data Science course concentrations.  
+- Specialized in Bioinformatics and Health Data Science course concentrations.
+- **Practicum project:** Single-cell analysis of the laryngeal squamous cell carcinoma (LSCC) and healthy adjacent tissue.
 
 ---
 
@@ -22,8 +22,9 @@ redirect_from:
 **University of Florida, Gainesville, United States**  
 **August 2013 - May 2015**  
 
-- **Thesis:** Role of periodontal pathogens in induction of atherosclerosis in LDLR null mice.  
 - Developed a deep understanding of various biological concepts through rigorous coursework and hands-on laboratory experiments.  
+- **Thesis:** Role of periodontal pathogens in induction of atherosclerosis in LDLR null mice.
+-- Awarded Young Investigator Fellowship by the European Atherosclerotic Society (EAS) for this research.
 
 ---
 
@@ -33,3 +34,4 @@ redirect_from:
 **September 2009 - April 2013**  
 
 - Gained a strong foundation in biotechnology principles and practical skills through comprehensive coursework and laboratory training.
+- **Undergraduate research project:** Cloning and expression of VP26, a  viral protein from White Spot Syndrome Virus (WSSV).
