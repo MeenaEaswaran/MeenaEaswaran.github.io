@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 🔬 Researcher at Stanford University, CA, USA
-🎓 Dual Master’s-Trained in Medical Sciences & Biomedical Informatics
+🎓 Dual Master’s-trained in Medical Sciences & Biomedical Informatics
 💡 Bench-to-Bioinformatics | Biological Data-Driven Problem Solver
 
 Hello! 👋 
