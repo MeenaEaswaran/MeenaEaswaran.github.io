@@ -9,9 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+## ☑️ Researcher's guide to RNA sequencing data
+- **Issued by:** Fred Hutchinson Cancer Center · **August 2025**  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+- **Skills:** Basics of gene expression microarrays, bulk RNA-seq, scRNA-seq and spatial trasncriptomics
+
+
 ## ☑️ Introduction to ScRNA-Seq Data Analysis program
-- **Issued by:** OmicsLogic Inc. · **May 2025**  
-- **Skills:** scRNAseq Analysis (basics) 
+- **Issued by:** OmicsLogic Inc · **May 2025**  
+- **Skills:** scRNAseq analysis 
 
 
 ## ☑️ pandas Essential Training (2017)
@@ -32,17 +37,17 @@ redirect_from:
 
 ## ☑️ Programming Foundations: Fundamentals
 - **Issued December 2024:** ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
-- **Skills:** Python Programming Language 
+- **Skills:** Python programming Llanguage 
 
 
 ## ☑️ Python Essential Training
 - **Issued December 2024:** ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
-- **Skills:** Python Programming Language 
+- **Skills:** Python programming language 
 
 
 ## ☑️ Python for Students
 - **Issued December 2024:** ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
-- **Skills:** Python Programming Language  
+- **Skills:** Python programming language 
 
 
 ## ☑️ Responsible Authorship and Publication
@@ -57,28 +62,28 @@ redirect_from:
 
 ## ☑️ RNA-Seq Data Analysis using R Programming Program
 - **Issued by:** OmicsLogic Inc. · **September 2024**  
-- **Skills:** R Programming Language, RNAseq Analysis  
+- **Skills:** R programming language, bulk RNA-seq Analysis  
 
 
 ## ☑️ Python Quick Start
 - **Issued February 2024:** ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
-- **Skills:** Python Programming Language
+- **Skills:** Python programming language 
   
 
 ## ☑️ Python for Non-Programmers
 - **Issued January 2024:** ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  
-- **Skills:** Python Programming Language
+- **Skills:** Python programming language 
 
 
 ## ☑️ Qiagen IPA Certified Analyst
 - **Issued by:** QIAGEN · **January 2023**  
 - **Credential ID:** 000027  
-- **Skills:** Ingenuity Pathway Analysis
+- **Skills:** Ingenuity Pathway Analysis (IPA)
   
 
 ## ☑️ Introduction to R Programming
 - **Issued by:** Stanford University · **March 2020**
-- **Skills:** R Programming Language
+- **Skills:** R programming language
   
 
 ## ☑️ Antimicrobial Resistance - Theory and Methods
