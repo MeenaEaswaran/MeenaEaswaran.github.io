@@ -13,33 +13,16 @@ redirect_from:
 - R
 - Python (Beginner)
 - SQL (Beginner)
-- Command Line Tools (Beginner)
+- Command Line Tools (UNIX/Linux) (Beginner)
   
 ---
 ## 🧬 Bioinformatic Data Analysis  
- **High-Throughput Data Processing**  
+ **High-Throughput Data Analysis**  
 - NanoString nCounter Gene Expression
 - Microarray 
 - Bulk RNA-Sequencing
+- Single-cell RNA-Sequencing
   
- **Data Repositories and Data Acquisition**  
-- NCBI GEO
-- R Bioconductor Package: GEOQuery
-
- **Differential Expression and Functional Enrichment Analysis**  
-- R Bioconductor Packages: DESeq2, limma, clusterProfiler
-- gProfiler (also  R package gprofiler2 )
-- GSEA
-- Metascape
-- NIH Database for Annotation, Visualization, and Integrated Discovery (DAVID)
-- iDEP
-- Qiagen Ingenity Pathway Analysis (IPA)
-
- **Network Analysis** 
-- StringDB
-- Weighted Gene Correlation Network Analysis (WGCNA)
-- Cytoscape
-
  **Variant Analysis and Genome Annotation**  
 - VCFtools
 - R Package: VcfR
@@ -47,13 +30,12 @@ redirect_from:
 - samTools
 - bcfTools
 - UCSC Genome Browser
-- Intergrative Genomics Viewer (IGV)
+- Integrative Genomics Viewer (IGV)
   
 ---
 ## 📊 Data Visualization and Scientific Illustration 
-- R package: ggplot2
-- R Bioconductor Packages: EnhancedVolcano, ComplexHeatmap
-- Python libraries: Seaborn, Matplotlib 
+- R
+- Python
 - Tableau
 - BioRender
 - Inkscape
