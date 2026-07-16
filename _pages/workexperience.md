@@ -69,7 +69,7 @@ Studied the mechanistic links between periodontal microbiology and cardiovascula
 **Anna University 📍 Chennai, Tamil Nadu, India**  
 **December 2012 - April 2013**  
 
-- Provided support for cloning, expression, and purification of white spot syndrome viral (WSSV) proteins in *Escherichia coli* expression hosts.  
+Provided support for cloning, expression, and purification of white spot syndrome viral (WSSV) proteins in *Escherichia coli* expression hosts.  
 
 ---
 
@@ -85,8 +85,7 @@ Gained practical exposure to molecular cancer research, observing and assisting 
 **Cancer Institute Adyar 📍 Chennai, Tamil Nadu, India**  
 **May 2011 - May 2011**  
 
-- Utilized Transmission Electron Microscope (TEM) and Scanning Electron Microscope (SEM) to examine lung tissue samples for cancerous or non-cancerous characteristics.  
-- Studied the techniques of Classic Karyotyping, Spectral Karyotyping (SKY), and Fluorescent in situ Hybridization (FISH).  
+Trained in cytogenetics and pathology, analyzing lung tissue for malignancies via TEM and SEM while gaining hands-on experience in Classic Karyotyping, Spectral Karyotyping (SKY), and FISH techniques.
 
 ---
 
