@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+- Kimura, A., **Easwaran, M.**, Kiessling, P. T., Golchin, A., & Erickson-DiRenzo, E. (2026). Impact of E-Cigarette Exposure on Wound Healing After Surgical Vocal Fold Injury in Mice. The Laryngoscope, 10.1002/lary.70888. Advance online publication. [https://doi.org/10.1002/lary.70888](https://doi.org/10.1002/lary.70888)
+
 - Kimura, A., Golchin, A., **Easwaran, M.**, Kiessling, P. T., Khan, M. I., Martinez, J. D., & Erickson-DiRenzo, E. (2026). Establishing an air-liquid interface system for exposure of mouse laryngeal epithelial cells to cigarette smoke. Inhalation toxicology, 38(6), 321–338. [https://doi.org/10.1080/08958378.2026.2657360](https://doi.org/10.1080/08958378.2026.2657360)
 
 - **Easwaran, M.**, Kimura, A., Liao, H. Y., Khan, M. I., Golchin, A., Kiessling, P., & Erickson-DiRenzo, E. (2025). Laryngeal Basal Cell Response to Cigarette Smoke and E-Cigarette Aerosol Exposures. The Laryngoscope, 136(2), 838–846. [https://doi.org/10.1002/lary.70092](https://doi.org/10.1002/lary.70092)
