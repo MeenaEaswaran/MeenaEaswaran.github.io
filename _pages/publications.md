@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+- Qin, G. T., Zhao, Q., Fujita, A., Damiani, I., **Easwaran, M.**, Basu, S., Gu, W., Bahia, G., Zheng, S., Li, D. Y., Worssam, M., Palmisano, B., Monteiro, J. P., Ramste, M., Kundu, R., Nguyen, T., Park, C., Weldy, C. S., Cheng, P., & Kim, J. B. (2026). Aryl-hydrocarbon receptor in smooth muscle cells protects against dioxin-induced atherosclerosis. Communications Medicine. [https://doi.org/10.1038/s43856-026-01871-5](https://doi.org/10.1038/s43856-026-01871-5)
+
 - Kimura, A., **Easwaran, M.**, Kiessling, P. T., Golchin, A., & Erickson-DiRenzo, E. (2026). Impact of E-Cigarette Exposure on Wound Healing After Surgical Vocal Fold Injury in Mice. The Laryngoscope, 10.1002/lary.70888. Advance online publication. [https://doi.org/10.1002/lary.70888](https://doi.org/10.1002/lary.70888)
 
 - Kimura, A., Golchin, A., **Easwaran, M.**, Kiessling, P. T., Khan, M. I., Martinez, J. D., & Erickson-DiRenzo, E. (2026). Establishing an air-liquid interface system for exposure of mouse laryngeal epithelial cells to cigarette smoke. Inhalation toxicology, 38(6), 321–338. [https://doi.org/10.1080/08958378.2026.2657360](https://doi.org/10.1080/08958378.2026.2657360)
