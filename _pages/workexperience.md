@@ -25,7 +25,7 @@ Led an independent, end-to-end computational analysis of public single-cell RNA 
 
 ---
 
-## 🧑‍🔬💼 Lab Manager/Research Associate  
+## 🧑‍🔬💼 Lab Manager
 **Stanford University 📍 Stanford, California, United States**  
 **October 2020 - July 2023**  
 
