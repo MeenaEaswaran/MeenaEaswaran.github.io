@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-- Kiessling, P., Kimura, A., Fauer, A., Huang, P. Y., **Easwaran, M.**, & Erickson-DiRenzo, E. (2026). Effects of Fine Particulate Matter (PM2.5) in Cultured Human Vocal Fold Fibroblasts. The Laryngoscope, 10.1002/lary.70976. Advance online publication. [https://doi.org/10.1002/lary.70976] (https://doi.org/10.1002/lary.70976)
+- Kiessling, P., Kimura, A., Fauer, A., Huang, P. Y., **Easwaran, M.**, & Erickson-DiRenzo, E. (2026). Effects of Fine Particulate Matter (PM2.5) in Cultured Human Vocal Fold Fibroblasts. The Laryngoscope, 10.1002/lary.70976. Advance online publication. [https://doi.org/10.1002/lary.70976](https://doi.org/10.1002/lary.70976)
 
 - Qin, G. T., Zhao, Q., Fujita, A., Damiani, I., **Easwaran, M.**, Basu, S., Gu, W., Bahia, G., Zheng, S., Li, D. Y., Worssam, M., Palmisano, B., Monteiro, J. P., Ramste, M., Kundu, R., Nguyen, T., Park, C., Weldy, C. S., Cheng, P., & Kim, J. B. (2026). Aryl-hydrocarbon receptor in smooth muscle cells protects against dioxin-induced atherosclerosis. Communications Medicine. [https://doi.org/10.1038/s43856-026-01871-5](https://doi.org/10.1038/s43856-026-01871-5)
 
