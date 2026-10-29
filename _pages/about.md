@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 🔬 Researcher at Stanford University, CA, USA<br>
-🎓 Dual Master’s-trained in Medical Sciences & Biomedical Informatics<br>
-💡 Bench-to-Bioinformatics | Biological Data-Driven Problem Solver
+🎓 Dual Master's in Medical Sciences & Biomedical Informatics<br>
+💡 In Vivo Research | Bench-to-Bioinformatics
 
-Hello! 👋 
+Hello! 👋
 
-I am a research professional with 10+ years of experience spanning microbiology, virology, cardiovascular health, and otolaryngology. My background combines hands-on expertise in experimental biology with bioinformatics, allowing me to approach biological questions from both bench and data-driven perspectives.
+With 10+ years of hands-on in vivo research experience, my background spans microbiology, virology, ENT, and cardiovascular biology.
 
-Currently, I am a Researcher in the [DiRenzo Lab](https://med.stanford.edu/direnzolab/meet-the-team.html) within the Otolaryngology-Head & Neck Surgery (OHNS) Department at Stanford University, CA, USA, where my work focuses on elucidating the molecular consequences of tobacco products, including traditional cigarettes and electronic cigarettes on laryngeal health, using experimental models and transcriptomic approaches.
+Currently, I work as a Research Associate in the [DiRenzo Lab](https://med.stanford.edu/direnzolab/meet-the-team.html) in the Department of Otolaryngology–Head & Neck Surgery at Stanford University, studying how tobacco products, including conventional cigarettes and e-cigarettes, affect laryngeal health. My work combines mouse exposure models with molecular, histological, and transcriptomic approaches.
 
-Over the course of my career, I have evolved from a primarily bench-focused researcher into a wet-lab and bioinformatics hybrid, applying R-based workflows to analyze transcriptomic datasets, including microarray, bulk RNA-seq, and single-cell RNA-seq data. I am passionate about bridging experimental biology and bioinformatics to address complex questions in health and disease. By combining biological insight, transcriptomic analysis, and data-driven problem solving, I aim to contribute to translational research, omics-based discovery, and collaborative science.
+At the core of my work is in vivo study design and execution: developing mouse models, coordinating multi-cohort studies, and running the downstream assays that turn tissue into results. I complement this with bioinformatics, using R-based workflows to analyze microarray, bulk RNA-seq, and single-cell RNA-seq data, so I can interpret what I see at the bench alongside what the data shows.
 
 Thank you for visiting my page! Feel free to explore my portfolio to learn more about my work, and let’s connect to discuss opportunities for collaboration.
